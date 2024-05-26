@@ -4,7 +4,7 @@
 
 ___
 
-<div align="center">
+<div display="flex">
 </a>
 <a href="https://github.com/kiibra/convoychat">
   <img height=200 align="center"  display="flex" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiibra&layout=compact&langs_count=8&card_width=320" />
@@ -52,6 +52,7 @@ ___
 </p> 
 </div>
 
+___ 
  <div align="center">
     
   [![Kibra's github streak](https://github-readme-streak-stats.herokuapp.com/?user=kiibra&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
