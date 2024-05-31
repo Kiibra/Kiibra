@@ -9,7 +9,6 @@ ___
 <a href="https://github.com/kiibra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiibra&layout=compact&langs_count=8&theme=dark&card_width=320" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kiibra&show_icons=true&theme=blue-green" /> 
-  
 </a>
 <a href="https://github.com/kiibra/github-readme-stats">
 </a>
@@ -20,9 +19,13 @@ ___
 ### <p align="center" > Connect with me:  </p>
 <div align="center">
    <a href="https://www.linkedin.com/in/kibra-buluts-171572138/"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg"  title="linkedin" alt="linkedin" width="220" height="100" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  title="linkedin" alt="linkedin"  />
+   </a>
+   <a href="mailto:kibra99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="gmail" alt="gmail" />
    </a>
 </div>
+
 
 ___
 
