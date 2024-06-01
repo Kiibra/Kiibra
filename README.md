@@ -4,7 +4,6 @@
 
 ___
 
-<div display="flex">
 </a>
 <a href="https://github.com/kiibra/convoychat">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=kiibra&show_icons=true&theme=blue-green" /> 
@@ -12,7 +11,6 @@ ___
 </a>
 <a href="https://github.com/kiibra/github-readme-stats">
 </a>
-</div>
 
 ___  
 
