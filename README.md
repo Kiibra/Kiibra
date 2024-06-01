@@ -4,13 +4,8 @@
 
 ___
 
-</a>
-<a href="https://github.com/kiibra/convoychat">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=kiibra&show_icons=true&theme=blue-green" /> 
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=kiibra&layout=compact&langs_count=8&theme=dark&card_width=320" />
-</a>
-<a href="https://github.com/kiibra/github-readme-stats">
-</a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kiibra&show_icons=true&theme=blue-green" /> </a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiibra&layout=compact&theme=dark&card_width=300" /> </a> 
 
 ___  
 
