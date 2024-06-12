@@ -1,7 +1,7 @@
 ##  👋 Hi, I’m Kibra
 
 <h4>About Me</h4>
-I'm a Full Stack Software Engineer with a background in behavioral science that allows me to offer a unique blend of creativity and analytical skills to the tech industry. My passion for innovation and problem-solving drives me to develop user-centric software solutions that enhance the user experience. Committed to continuous learning and delivering solution-driven results along with my background, I bring to the table fresh perspectives to the tech field.
+As a Full Stack Software Engineer with a background in behavioral science, I offer a unique blend of creativity and analytical skills to the tech industry. My passion for innovation and problem-solving drives me to develop user-centric software solutions that enhance the user experience. Committed to continuous learning and delivering solution-driven, I bring to the table fresh perspectives to the tech field.
 
 ___
 
