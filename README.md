@@ -1,6 +1,7 @@
 ##  👋 Hi, I’m Kibra
 
-![Screenshot 2024-05-25 at 7 06 35 PM](https://github.com/Kiibra/Kiibra/assets/163709991/4ad298d5-940f-40d7-9615-74a74d5a7565)
+<h4>About Me</h4>
+I'm a Full Stack Software Engineer with a background in behavioral science that allows me to offer a unique blend of creativity and analytical skills to the tech industry. My passion for innovation and problem-solving drives me to develop user-centric software solutions that enhance the user experience. Committed to continuous learning and delivering solution-driven results along with my background, I bring to the table fresh perspectives to the tech field.
 
 ___
 
