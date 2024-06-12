@@ -1,7 +1,7 @@
 ##  👋 Hi, I’m Kibra
 
 <h4>About Me</h4>
-As a Full Stack Software Engineer with a background in behavioral science, I offer a unique blend of creativity and analytical skills to the tech industry. My passion for innovation and problem-solving drives me to develop user-centric software solutions that enhance the user experience. Committed to continuous learning and delivering solution-driven, I bring to the table fresh perspectives to the tech field.
+As a Full Stack Software Engineer with a background in behavioral science, I offer a unique blend of creativity and analytical skills to the tech industry. My passion for innovation and problem-solving drives me to develop user-centric software solutions that enhance the user experience. Committed to continuous learning and delivering solution-driven results, I bring to the table fresh perspectives to the tech field.
 
 ___
 
@@ -10,7 +10,7 @@ ___
 
 ___  
 
-### <p align="center" > Connect with me:  </p>
+### <p align="center" > Reach Out:  </p>
 <div align="center">
    <a href="https://www.linkedin.com/in/kibra-buluts-171572138/"> 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  title="linkedin" alt="linkedin"  />
@@ -23,7 +23,7 @@ ___
 
 ___
 
-### <p align="center" >:hammer_and_wrench: Languages and Tools : </p>
+### <p align="center" >  Languages & Tools :hammer_and_wrench: :</p>
 
 <div>
  <p align="center" >
