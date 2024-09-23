@@ -2,7 +2,7 @@
 
 
 <h4 >About Me:</h4>
-I am a Software Engineer with a background in behavioral science. I offer a unique blend of creativity and analytical skills to the tech industry and I am driven by my passion for innovation and problem-solving to develop user-centric software solutions that enhance the user experience. I am proficient in languages such as JavaScript, React, HTML, and Python and I am eager and committed to continuous learning and delivering solution-driven results.
+Hi there! I’m a Software Engineer with a background in behavioral science, blending creativity and analytical skills to build user-centric solutions. Proficient in JavaScript, React, HTML, and Python, I’m driven by a passion for innovation, problem-solving, and continuous learning. Let’s build something great together!
 
 ___
 
