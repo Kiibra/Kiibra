@@ -1,4 +1,5 @@
-##  👋 Hi, I’m Kibra
+<div align="center"> 
+   👋 Hi, I’m Kibra
 
 
 <h4 >About Me:</h4>
@@ -8,8 +9,9 @@ ___
 
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kiibra&show_icons=true&theme=blue-green" /> </a>
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiibra&layout=compact&theme=dark&card_width=300" /> </a> 
-
 ___  
+
+</div>
 
 ### <p align="center" > Reach Out:  </p>
 <div align="center">
