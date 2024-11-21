@@ -15,7 +15,7 @@ ___
 
 ### <p align="center" > Reach Out:  </p>
 <div align="center">
-   <a href="https://www.linkedin.com/in/kibra-buluts-171572138/"> 
+   <a href="https://www.linkedin.com/in/kibra-buluts/"> 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  title="linkedin" alt="linkedin"  />
    </a>
    <a href="mailto:kibra99@gmail.com">
